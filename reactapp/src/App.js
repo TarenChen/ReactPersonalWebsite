@@ -31,8 +31,8 @@ class App extends Component {
               <Items  imgg = {UMassIMG} name = "University of Massachusetts Lowell" date = "(Sept. 2017 - Present)"/>
               <Items  imgg = {NqhsIMG} name = "North Quincy High School" date = "(Sept. 2013 - June 2017)"/>
             </section>
-            <section id = "experience">
-              <Groups groupName = "EXPERIENCE"/>
+            <section id = "experiences">
+              <Groups groupName = "EXPERIENCES"/>
               <Items  imgg = {FidelityIMG} name = "Software Engineer Intern" date = "(June 2020 - Aug. 2020)"/>
               <Items  imgg = {PhilipsIMG} name = "Software Engineer Intern" date = "(June 2019 - Dec. 2019)"/>
             </section>

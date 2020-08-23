@@ -1,9 +1,13 @@
 .homePage{
-    min-height: 900px;
+    min-height: 850px;
     height: 100%;
     background: url(../../pictures/HomePage.jpg); 
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center -250px;
+    background-position: center;
     width: auto;
+}
+
+.homePage h1{
+    padding-top: 3%;
 }

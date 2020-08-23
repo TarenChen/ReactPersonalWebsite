@@ -6,7 +6,8 @@
     "jquery": "^3.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "reactstrap": "^8.5.1"
   },
   "devDependencies": {},
   "scripts": {

@@ -6,3 +6,7 @@
 section{
   min-height: 700px;
 }
+
+html {
+  scroll-behavior: smooth;
+}

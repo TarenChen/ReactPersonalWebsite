@@ -6,7 +6,11 @@ import './HomePage.css'
 function HomePage(){
     return(
         <div className = "homePage">
+            <div className = "container">
+                <center>
 
+                </center>
+            </div>
         </div>
     )
 }
